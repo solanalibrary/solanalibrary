@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>The Library AMAs</title>
+
+    <!-- Include font -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<!-- Include Style Sheet -->
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+    <script language="JavaScript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript", src="https://cdn.jsdelivr.net/npm/amplitudejs@latest/dist/amplitude.min.js"></script>
+
+  </head>
+  <body>
+    <div class="example-container">
+      <div class="left">
+        <div id="white-player">
+          <div class="white-player-top">
+            <div>
+              &nbsp;
+            </div>
+            
+            <div class="center">
+              <span class="now-playing">Now Playing</span>
+            </div>
+            
+            <div>
+                <img src="https://521dimensions.com/img/open-source/amplitudejs/examples/dynamic-songs/show-playlist.svg" class="show-playlist"/>
+            </div>
+          </div>
+
+          <div id="white-player-center">
+            <img data-amplitude-song-info="cover_art_url" class="main-album-art"/>
+
+            <div class="song-meta-data">
+              <span data-amplitude-song-info="name" class="song-name"></span>
+              <span data-amplitude-song-info="artist" class="song-artist"></span>
+            </div>
+
+            <div class="time-progress">
+              <div id="progress-container">
+                <input type="range" class="amplitude-song-slider"/>
+                <progress id="song-played-progress" class="amplitude-song-played-progress"></progress>
+                <progress id="song-buffered-progress" class="amplitude-buffered-progress" value="6"></progress>
+              </div>
+
+              <div class="time-container">
+                <span class="current-time">
+                  <span class="amplitude-current-hours"></span>:<span class="amplitude-current-minutes"></span>:<span class="amplitude-current-seconds"></span>
+                </span>
+                <span class="duration">
+                    <span class="amplitude-duration-hours"></span>:<span class="amplitude-duration-minutes"></span>:<span class="amplitude-duration-seconds"></span>
+                  </span>
+              </div>
+            </div>
+          </div>
+
+          <div id="white-player-controls">
+            <div class="amplitude-shuffle amplitude-shuffle-off" id="shuffle"></div>
+            <div class="amplitude-prev" id="previous"></div>
+            <div class="amplitude-play-pause" id="play-pause"></div>
+            <div class="amplitude-next" id="next"></div>
+            <div class="amplitude-repeat" id="repeat"></div>
+          </div>
+
+          <div id="white-player-playlist-container">
+            <div class="white-player-playlist-top">
+              <div>
+
+              </div>
+              <div>
+                <span class="queue">All AMAs</span>
+              </div>
+              <div>
+                  <img src="https://521dimensions.com/img/open-source/amplitudejs/examples/dynamic-songs/close.svg" class="close-playlist"/>
+              </div>
+             </div>
+
+            <div class="white-player-playlist">
+<!---
+              <div class="white-player-playlist-song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="0">
+                <img src="https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg"/>
+
+                <div class="playlist-song-meta">
+                  <span class="playlist-song-name">Risin' High (feat Raashan Ahmad)</span>
+                  <span class="playlist-artist-album">Ancient Astronauts &bull; We Are to Answer</span>
+                </div>
+              </div>
+--->
+            </div>
+
+            <div class="white-player-playlist-controls">
+              <img data-amplitude-song-info="cover_art_url" class="playlist-album-art"/>
+
+              <div class="playlist-controls">
+                <div class="playlist-meta-data">
+                    <span data-amplitude-song-info="name" class="song-name"></span>
+                    <span data-amplitude-song-info="artist" class="song-artist"></span>
+                </div>
+
+                <div class="playlist-control-wrapper">
+                  <div class="amplitude-prev" id="playlist-previous"></div>
+                  <div class="amplitude-play-pause" id="playlist-play-pause"></div>
+                  <div class="amplitude-next" id="playlist-next"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://twitter.com/web3techonly" class="fa fa-twitter more-on-ssu"></a>
+      </div>
+      
+  </body>
+</html>
+<!-- partial -->
+  <script src='https://cdn.jsdelivr.net/npm/amplitudejs@latest/dist/amplitude.min.js'></script>
+  <script  src="./script.js"></script>

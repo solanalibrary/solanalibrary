@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Nomads",
+        "artist": "https://twitter.com/NomadsNFT_",
+        "album": "https://nomadsnft.io",
+        "url": "https://docs.google.com/uc?id=1tt4P9-qEsM4eaV9jNw227yt6IOoeWYOL&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1559362681643171842/guFxWC3O_400x400.jpg"
+    },
+    {
+        "name": "Elixir",
+        "artist": "https://twitter.com/ElixirNFT",
+        "album": "https://www.elixirnft.io",
+        "url": "https://docs.google.com/uc?id=1tt4P9-qEsM4eaV9jNw227yt6IOoeWYOL&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1555641321783795712/gM1cgQjs_400x400.jpg"
+    },
+    {
+        "name": "FRAKT",
+        "artist": "https://twitter.com/FRAKT_HQ",
+        "album": "https://frakt.xyz",
+        "url": "https://docs.google.com/uc?id=166BDZQ-L0NOMi-z_XzYZ7XeU4gHtVJ5i&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1503735660473204743/5spzYD5z_400x400.jpg"
+    },
+    { 
+        "name": "Crossmint",
+        "artist": "https://twitter.com/crossmint_io",
+        "album": "https://www.crossmint.io/",
+        "url": "https://docs.google.com/uc?id=1LNLHZh0zwdk1vHYLH9Tph09zP-dmdxfe&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1535656143988707330/Wg16GKQ2_400x400.png"
+    },
+    { 
+        "name": "Joystick",
+        "artist": "https://twitter.com/Joystik_app",
+        "album": "https://joystik.io",
+        "url": "https://docs.google.com/uc?id=15SBVjL25jIWQhIyX9PtcCXeKKaRwSU4I&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1498318766672732162/CPDZ2VNS_400x400.jpg"
+    },
+    { 
+        "name": "Marinade",
+        "artist": "https://twitter.com/MarinadeFinance",
+        "album": "hhttps://marinade.finance",
+        "url": "https://docs.google.com/uc?id=1JEbkU6DtFd186Eb9GcZ01KPkcR8ZP8I8&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1474400780350275588/7aUnnIC8_400x400.jpg"
+    },
+    { 
+        "name": "Speakeasy",
+        "artist": "https://twitter.com/MySpeakeasyXYZ",
+        "album": "https://www.myspeakeasy.xyz",
+        "url": "https://docs.google.com/uc?id=1twn3Flf3asAGu1PfexsVxkH87osqNmQf&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1561464639715778560/_LgCG3y4_400x400.jpg"
+    },
+    { 
+        "name": "Portals",
+        "artist": "https://twitter.com/_portals_",
+        "album": "https://barracuda.io/portals",
+        "url": "https://docs.google.com/uc?id=1W-yH_RPAyDO2g53q4GAaDDaa7DFtgOlg&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1575314191761567744/uhSCRnUC_400x400.jpg"
+    },
+    { 
+        "name": "Hubble Protocol",
+        "artist": "https://twitter.com/HubbleProtocol",
+        "album": "https://hubbleprotocol.io/",
+        "url": "https://docs.google.com/uc?id=15XLn3-fY53H836c47MpQIHiMdNDwtmDY&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1471509778501230618/Pj3rpcr1_400x400.jpg"
+    },
+    { 
+        "name": "Marco Polo",
+        "artist": "https://twitter.com/marcopolo_so",
+        "album": "https://marcopolo.so/",
+        "url": "https://docs.google.com/uc?id=1Elw1nekuJeORgYaU83WJ_4dtXiCK6Ons&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1539866783888183296/ldCZMnvF_400x400.jpg"
+    },
+    { 
+        "name": "Phase",
+        "artist": "https://twitter.com/phaseprotocol",
+        "album": "https://www.phaseprotocol.io",
+        "url": "https://docs.google.com/uc?id=1tT-LhUnjMPPRTZ73jN2lkedhT8quI6IY&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1562107269952700418/j0ci-MBj_400x400.jpg"
+    },
+    { 
+        "name": "Honey Finance",
+        "artist": "https://twitter.com/honeydefi",
+        "album": "https://honey.finance/",
+        "url": "https://docs.google.com/uc?id=1-31w4y4fSJLcU5BP-XGtBWuG3j7hfmJL&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1547790140638052356/_RKicP8K_400x400.png"
+    },
+    { 
+        "name": "Geometry Finance",
+        "artist": "https://twitter.com/OmegaGeometry",
+        "album": "",
+        "url": "https://docs.google.com/uc?id=1GJ5GXtN4MIEuS-w7RW1pl2oXJxe56RFm&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1553459616771719168/qehSjo_J_400x400.png"
+    },
+    { 
+        "name": "Cogent Crypto",
+        "artist": "https://twitter.com/Cogent_Crypto",
+        "album": "https://cogentcrypto.io/",
+        "url": "https://docs.google.com/uc?id=1SoUo-Ph8zHJaInXQuK-NA14tGBP8Oofb&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1482423180148940802/K2hYi3o8_400x400.jpg"
+    },
+    { 
+        "name": "Helio",
+        "artist": "https://twitter.com/helionsNFT",
+        "album": "https://helions.hel.io/",
+        "url": "https://docs.google.com/uc?id=1-gd1IOWP-6nzDrPL1OvmxOSIdFHuCRpv&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1567250478085423104/bU9e7gkb_400x400.jpg"
+    },
+    {
+        "name": "Sentries",
+        "artist": "https://twitter.com/Sentries_SOL",
+        "album": "https://www.sentries.io/",
+        "url": "https://docs.google.com/uc?id=1nEQ5Y2_R20uknIVicgPju72cGnNaZrKJ&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1568764447598198784/dQu5QcbX_400x400.jpg"
+    },
+    { 
+        "name": "Solswipe",
+        "artist": "https://twitter.com/solswipecard",
+        "album": "https://solswipe.io/",
+        "url": "https://docs.google.com/uc?id=1Gcf0lwx6TGyKkVQRi2gMQ83-TwRfusHd&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1546553770368049152/wW0R37wL_400x400.jpg"
+    },
+    { 
+        "name": "Vault-X",
+        "artist": "https://twitter.com/TheVaultDAO",
+        "album": "https://thevault-x.com/",
+        "url": "https://docs.google.com/uc?id=1vGiEk3s60fYfKJ0QxuGcJV6XeHaIMdkQ&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1552579388419756032/TLLpS1iY_400x400.jpg"
+    },
+    { 
+        "name": "Coinable",
+        "artist": "https://twitter.com/coinablepay",
+        "album": "https://coinablepay.com/",
+        "url": "https://docs.google.com/uc?id=1trlKdZRk4hiEbgCcZIvcRMSeYXQy2VRW&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1512792587261911043/Ea3nlX49_400x400.jpg"
+    },
+    {
+        "name": "Node Monkey",
+        "artist": "https://twitter.com/NodeMonkeyNFT",
+        "album": "https://marketplace.nodemonkey.io/",
+        "url": "https://docs.google.com/uc?id=171m40H1z6gFA0Wdy19y0mHvSXMBgjKqN&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1489798011316281346/ASPFIpKN_400x400.jpg"
+    },
+    { 
+        "name": "Blxckout",
+        "artist": "https://twitter.com/blxckout_nft",
+        "album": "",
+        "url": "https://docs.google.com/uc?id=1j0b1-DzHRZqvwivQkFau3SaHzr_WTVCQ&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1551649959107330050/V8EXxGfZ_400x400.jpg"
+    },
+    { 
+        "name": "Atadia",
+        "artist": "https://twitter.com/atadia_io",
+        "album": "https://www.atadia.io/",
+        "url": "https://docs.google.com/uc?id=1OGxSCs0AYZAqrtwgYM1k7MReBUkVeCwt&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1531834805994029057/GqHZTluA_400x400.jpg"
+    },
+    { 
+        "name": "Mutant Miner Rats",
+        "artist": "https://twitter.com/MutantMinerRats",
+        "album": "https://mutantminerrats.xyz/",
+        "url": "https://docs.google.com/uc?id=1VH-vXx5ZvnbfrL_eO3pCFGd8osrvACHl&export=download",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1562168306836164608/_fNHTJet_400x400.jpg"
+    }
+]
