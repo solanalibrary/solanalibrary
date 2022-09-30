@@ -11,6 +11,9 @@ $.getJSON("https://raw.githubusercontent.com/solanalibrary/solanalibrary/main/pl
                 setCookie("ama", active_index, 7);
                 setCookie("seconds", Math.floor(duration), 7);
               }
+          },
+          song_change: function(){
+              eraseCookie("ama");
           }
         }
     });
@@ -168,6 +171,11 @@ function getCookie(name) {
         if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
     }
     return null;
+}
+
+
+function eraseCookie(name) {   
+    document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
 }
 
 
