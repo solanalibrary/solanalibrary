@@ -6,14 +6,19 @@ $.getJSON("https://raw.githubusercontent.com/solanalibrary/solanalibrary/main/pl
         callbacks: {
           timeupdate: function(){
               const active_index = Amplitude.getActiveIndex();
-              const duration = Amplitude.getSongPlayedSeconds()
+              const duration = Amplitude.getSongPlayedSeconds();
               if (duration > 30) {
                 setCookie("ama", active_index, 7);
                 setCookie("seconds", Math.floor(duration), 7);
               }
           },
-          song_change: function(){
+          next: function(){
               eraseCookie("ama");
+              eraseCookie("seconds");
+          },
+          prev: function(){
+              eraseCookie("ama");
+              eraseCookie("seconds");
           }
         }
     });
@@ -39,7 +44,6 @@ $.getJSON("https://raw.githubusercontent.com/solanalibrary/solanalibrary/main/pl
 
     recoverAMA(items.length - 1);
     Amplitude.bindNewElements();
-
 });
 
 
@@ -174,20 +178,21 @@ function getCookie(name) {
 }
 
 
-function eraseCookie(name) {   
+function eraseCookie(name) {  
+    console.log('deleting cookie') 
     document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
 }
 
 
-function recoverAMA(default_ama) {
+function recoverAMA(latest_ama) {
   const ama_id = getCookie("ama");
   if (ama_id != "" & ama_id != null) {
     const seconds = getCookie("seconds");
     console.log(`You were listening to ${ama_id} at ${seconds}`);
     Amplitude.skipTo(seconds, ama_id);
   } else {
-    setCookie("ama", default_ama, 7);
+    setCookie("ama", latest_ama, 7);
     setCookie("seconds", 0, 7);
-    Amplitude.skipTo(0, default_ama);
+    Amplitude.skipTo(0, latest_ama);
   }
 }
