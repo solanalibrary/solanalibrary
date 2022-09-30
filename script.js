@@ -1,11 +1,21 @@
 $.getJSON("https://raw.githubusercontent.com/solanalibrary/solanalibrary/main/playlist.json", function(items) {
-    //console.log(json); // this will show the info it in firebug console
+    //https://521dimensions.com/open-source/amplitudejs/docs
     Amplitude.init({
         songs: items,
+        continue_next: false,
+        callbacks: {
+          timeupdate: function(){
+              const active_index = Amplitude.getActiveIndex();
+              const duration = Amplitude.getSongPlayedSeconds()
+              console.log(active_index, duration);
+          }
+        }
     });
+    // https://stackoverflow.com/questions/51081488/continue-song-on-the-next-page-with-amplitude-js
+
     var playlist = document.getElementsByClassName("white-player-playlist")[0];
 
-    for(var i = 0; i < items.length; i++) {
+    for(var i = items.length - 1; i >= 0 ; i--) {
         //var h5 = document.createElement("h5");
         //h5.innerHTML = items[i].title;
         //news.appendChild(h5);
@@ -28,7 +38,10 @@ $.getJSON("https://raw.githubusercontent.com/solanalibrary/solanalibrary/main/pl
 
     }
 
+    Amplitude.skipTo(0, items.length-1);
+
     Amplitude.bindNewElements();
+
 });
 
 /*
