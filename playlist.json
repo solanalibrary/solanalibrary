@@ -173,6 +173,13 @@
         "album": "https://floppylabs.io",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20FloppyLabs!.aac",
         "cover_art_url": "https://pbs.twimg.com/profile_images/1506601205878992901/ms1jMbhM_400x400.jpg"
+    },
+    {
+        "name": "Tensor",
+        "artist": "https://twitter.com/tensor_hq",
+        "album": "https://www.tensor.trade/swap",
+        "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20Tensor!.m4a",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1570907127287259136/qujno7O4_400x400.jpg"
     }
 
 ]
