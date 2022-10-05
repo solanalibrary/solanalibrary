@@ -180,6 +180,13 @@
         "album": "https://www.tensor.trade/swap",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20Tensor!.m4a",
         "cover_art_url": "https://pbs.twimg.com/profile_images/1570907127287259136/qujno7O4_400x400.jpg"
+    },
+    {
+        "name": "Dappio",
+        "artist": "https://twitter.com/Dappio_",
+        "album": "https://dappio.xyz",
+        "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20Dappio!.m4a",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1544427000995069952/o0jqI1uX_400x400.jpg"
     }
 
 ]
