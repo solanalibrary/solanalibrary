@@ -194,6 +194,13 @@
         "album": "https://solend.fi",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20Solend!.m4a",
         "cover_art_url": "https://pbs.twimg.com/profile_images/1479918591718064128/mjL4FpQU_400x400.jpg"
+    },
+    {
+        "name": "Motley Labs",
+        "artist": "https://twitter.com/MotleyLabs",
+        "album": "https://motleylabs.com",
+        "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20Motley%20Labs!.m4a",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1563251643486916610/C5wk-cA5_400x400.jpg"
     }
 
 ]
