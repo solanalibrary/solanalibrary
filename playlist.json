@@ -144,7 +144,7 @@
         "artist": "https://twitter.com/FRAKT_HQ",
         "album": "https://frakt.xyz",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius%F0%9F%8C%BF%F0%9F%93%9A-FRAKT%20AMA!.aac",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1503735660473204743/5spzYD5z_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1595807254191685634/0ZXADmSB_400x400.jpg"
     },
     {
         "name": "Elixir",
@@ -214,7 +214,7 @@
         "artist": "https://twitter.com/UGS_Labs",
         "album": "https://www.undergroundsociety.xyz",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20UGS!.m4a",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1564281506205339648/sClRMTer_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1592909911091994626/BKiLN6Bs_400x400.jpg"
     },
     {
         "name": "Based",
@@ -229,6 +229,13 @@
         "album": "hhttps://marinade.finance",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚Gekonn-Check-in%20w%20Marinade.m4a",
         "cover_art_url": "https://pbs.twimg.com/profile_images/1474400780350275588/7aUnnIC8_400x400.jpg"
+    },
+    {
+        "name": "Simmple",
+        "artist": "https://twitter.com/simmplelabsnft",
+        "album": "https://discord.com/invite/simmplelabs",
+        "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20simmple.m4a",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1555891086828384256/4PoA1Js1_400x400.jpg"
     }
 
 ]
