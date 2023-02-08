@@ -254,8 +254,15 @@
     {
         "name": "Marinade",
         "artist": "https://twitter.com/MarinadeFinance",
-        "album": "hhttps://marinade.finance",
+        "album": "https://marinade.finance",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius.abc🌿📚Check-in%20w%20Marinade!.m4a",
         "cover_art_url": "https://pbs.twimg.com/profile_images/1474400780350275588/7aUnnIC8_400x400.jpg"
+    },
+    {
+        "name": "Kamino",
+        "artist": "https://twitter.com/Kamino_Finance",
+        "album": "https://app.kamino.finance/",
+        "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius.abc🌿📚-Getting%20to%20know%20Kamino!.m4a",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1563154884718985216/MPPps3IA_400x400.jpg"
     }
 ]
