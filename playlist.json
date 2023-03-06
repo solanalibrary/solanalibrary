@@ -11,7 +11,7 @@
         "artist": "https://twitter.com/atadia_io",
         "album": "https://www.atadia.io/",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius%F0%9F%8C%BF%F0%9F%93%9A-AMA%20with%20Atadia!.aac",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1627299187665809409/_WVsDj4h_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1630803561989967873/h4OSY2gA_400x400.jpg"
     },
     {
         "name": "Blxckout",
@@ -144,14 +144,14 @@
         "artist": "https://twitter.com/FRAKT_HQ",
         "album": "https://frakt.xyz",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius%F0%9F%8C%BF%F0%9F%93%9A-FRAKT%20AMA!.aac",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1595807254191685634/0ZXADmSB_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1631677740578488320/CbX2VyJh_400x400.jpg"
     },
     {
         "name": "Elixir",
         "artist": "https://twitter.com/ElixirNFT",
         "album": "https://www.elixirnft.io",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius%F0%9F%8C%BF%F0%9F%93%9A%2CSwervor%20%F0%9F%94%AE%F0%9F%A6%89%2Ctruitt%20%F0%9F%94%AE%F0%9F%A6%89-AMA%20w%20Elixir!.aac",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1618643252302778368/nsTmlFb-_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1630993387036835853/orgPlMvb_400x400.jpg"
     },
     {
         "name": "Nomads",
@@ -193,7 +193,7 @@
         "artist": "https://twitter.com/solendprotocol",
         "album": "https://solend.fi",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20Solend!.m4a",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1479918591718064128/mjL4FpQU_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1630898375867637760/Y_cQPDCQ_400x400.jpg"
     },
     {
         "name": "Motley Labs",
@@ -207,14 +207,14 @@
         "artist": "https://twitter.com/atadia_io",
         "album": "https://www.atadia.io",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-Check-in%20w%20Atadia!.m4a",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1627299187665809409/_WVsDj4h_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1630803561989967873/h4OSY2gA_400x400.jpg"
     },
     {
         "name": "UGS",
         "artist": "https://twitter.com/UGS_Labs",
         "album": "https://www.undergroundsociety.xyz",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius🌿📚-AMA%20w%20UGS!.m4a",
-        "cover_art_url": "https://pbs.twimg.com/profile_images/1623430758726598659/WHEFiLCY_400x400.jpg"
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1631015185837064193/6Dq_4TTq_400x400.jpg"
     },
     {
         "name": "Based",
@@ -278,5 +278,12 @@
         "album": "https://twitter.com/sandbar_io",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius.abc🌿📚-AMA%20w%20Sandbar!.m4a",
         "cover_art_url": "https://pbs.twimg.com/profile_images/1625190944902418448/8gKLtUNE_400x400.jpg"
+    },
+    {
+        "name": "Psypop",
+        "artist": "https://twitter.com/psypop_club",
+        "album": "https://psypop.club/",
+        "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius.abc🌿📚-AMA%20w%20Psypop!.m4a",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1622349248783331328/M-bD0ogx_400x400.jpg"
     }
 ]
