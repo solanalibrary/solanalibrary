@@ -292,5 +292,12 @@
         "album": "https://joinpoolparty.io",
         "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius.abc🌿📚-AMA%20w%20PoolParty!.m4a",
         "cover_art_url": "https://pbs.twimg.com/profile_images/1587217285856612354/LY_ngsJI_400x400.jpg"
+    },
+    {
+        "name": "Hawksight",
+        "artist": "https://twitter.com/HawksightCo",
+        "album": "https://hawksight.co/",
+        "url": "https://solanalibrary.github.io/solanalibrary/recordings/Gaius.abc🌿📚-AMA%20w%20Hawksight!.m4a",
+        "cover_art_url": "https://pbs.twimg.com/profile_images/1611058582799421440/J3jAi2kB_400x400.jpg"
     }
 ]
